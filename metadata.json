@@ -1,0 +1,8 @@
+{
+  "name": "Remix TeachLearn Board V.07 Hệ sinh thái 1",
+  "description": "TeachLearn Board Tương Tác nâng cấp offline, Bỏ đăng nhập",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
